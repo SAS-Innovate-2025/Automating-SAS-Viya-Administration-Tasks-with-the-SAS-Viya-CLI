@@ -3,6 +3,11 @@ Automating SAS® Viya Administration Tasks with the SAS Viya CLI
 
 Presented by: Gerry Nelson, SAS EDU Content Development Group
 
+## Related tools
+
+* Pyviyatools: https://github.com/sassoftware/pyviyatools
+* SAS Viya CLI: https://support.sas.com/downloads/package.htm?pid=2512
+
 ## Important Information
 
 This site provides the hands-on instructions for a specific SAS Innovate 2025 session provided by SAS Education. The instructions in these pages are specific to the workshop and should not be considered a replacement for the official SAS Documentation. Some parts of these instructions will only work correctly in the Lab environments provided by SAS Education.
